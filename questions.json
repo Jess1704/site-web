@@ -1,0 +1,107 @@
+[
+  {
+      "text": "Quelle est la capitale de la France ?",
+      "options": [
+          {"text": "Paris", "isCorrect": true},
+          {"text": "Lyon", "isCorrect": false},
+          {"text": "Marseille", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Quelle est la capitale de la Suède ?",
+      "options": [
+          {"text": "Gothenburg", "isCorrect": false},
+          {"text": "Stockholm", "isCorrect": true},
+          {"text": "Malmö", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Qui est le président actuel des États-Unis ?",
+      "options": [
+          {"text": "Donald Trump", "isCorrect": false},
+          {"text": "Barack Obama", "isCorrect": false},
+          {"text": "Joe Biden", "isCorrect": true}
+      ]
+  },
+  {
+      "text": "Quel est le plus grand fleuve du monde en termes de débit d'eau?",
+      "options": [
+          {"text": "Le Nil", "isCorrect": false},
+          {"text": "L'Amazone", "isCorrect": true},
+          {"text": "Le fleuve Congo", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Quel est le pays le plus peuplé au monde?",
+      "options": [
+          {"text": "Chine", "isCorrect": true},
+          {"text": "Inde", "isCorrect": false},
+          {"text": "Etats-Unis", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "En quelle année a été découverte l'Amérique?",
+      "options": [
+          {"text": "1675", "isCorrect": false},
+          {"text": "1492", "isCorrect": true},
+          {"text": "1758", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Qui a inventé l'avion?",
+      "options": [
+          {"text": "Les frères Wright", "isCorrect": true},
+          {"text": "Einstein", "isCorrect": false},
+          {"text": "Hitler", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Quel est le plus grand océan du monde ?",
+      "options": [
+          {"text": "Océan Indien", "isCorrect": false},
+          {"text": "Océan Atlantique", "isCorrect": false},
+          {"text": "Océan Pacifique", "isCorrect": true}
+      ]
+  },
+  {
+      "text": "Quand la seconde guerre mondiale a-t-elle pris fin?",
+      "options": [
+          {"text": "1925", "isCorrect": false},
+          {"text": "1945", "isCorrect": true},
+          {"text": "1895", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Quel est le plus long fleuve de France?",
+      "options": [
+          {"text": "Le Rhin", "isCorrect": false},
+          {"text": "La Seine", "isCorrect": false},
+          {"text": "La Loire", "isCorrect": true}
+      ]
+  },
+  {
+      "text": "Hawaï appartient à quel pays ?",
+      "options": [
+          {"text": "Angleterre", "isCorrect": false},
+          {"text": "Etats-Unis", "isCorrect": true},
+          {"text": "Madagascar", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Quel est le plat national d'Italie ?",
+      "options": [
+          {"text": "Pizza", "isCorrect": true},
+          {"text": "Lasagne", "isCorrect": false},
+          {"text": "Ravioli", "isCorrect": false}
+      ]
+  },
+  {
+      "text": "Combien d'étoiles compte le drapeau américain ?",
+      "options": [
+          {"text": "51", "isCorrect": false},
+          {"text": "45", "isCorrect": false},
+          {"text": "50", "isCorrect": true}
+      ]
+  }
+]
+
